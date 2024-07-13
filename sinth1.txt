@@ -1,0 +1,1 @@
+creates sinth1.txt file
